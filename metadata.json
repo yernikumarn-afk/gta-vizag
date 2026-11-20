@@ -1,0 +1,6 @@
+{
+  "name": "Vizag City",
+  "description": "3D open-world action and coastal driving prototype set in Visakhapatnam, India featuring RK Beach, Beach Road, Kailasagiri, dynamic day/night and weather systems, traffic, missions, and local progress saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
